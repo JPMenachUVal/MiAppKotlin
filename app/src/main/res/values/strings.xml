@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAppKotlin</string>
+    <string name="Procesar" />
+    <string name="btn_procesar">Procesar</string>
+</resources>
